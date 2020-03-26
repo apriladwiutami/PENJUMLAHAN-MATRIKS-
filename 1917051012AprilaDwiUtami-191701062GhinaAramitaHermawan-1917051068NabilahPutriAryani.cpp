@@ -72,3 +72,6 @@ void input (int *in)
 
 void jumlah (int *jum)
 {
+	for(int j = 0; j < d; j++)
+      		{
+        		*(*(mp+*jum)+j) = *(*(pm1+*jum)+j) + *(*(pm2+*jum)+j);
