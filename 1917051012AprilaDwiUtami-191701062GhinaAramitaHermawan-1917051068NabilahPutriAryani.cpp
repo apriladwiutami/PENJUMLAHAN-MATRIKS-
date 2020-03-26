@@ -34,3 +34,9 @@ int main()
     	for(int i = 0; i < c; i++)
     	{
       		jumlah(&i);
+    	}
+
+
+    	cout << "Hasil penjumlahan matriks: "<<endl;
+    	
+    	for(int i = 0; i < c; i++)
