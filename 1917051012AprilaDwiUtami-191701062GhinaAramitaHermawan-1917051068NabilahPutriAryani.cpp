@@ -47,10 +47,10 @@ int main()
 	}
 }
 
-void jumlah (int *jum)
+void input (int *in)
 {
-	for(int j = 0; j < d; j++)
-	
+	cout << "Masukkan elemen matriks pertama: "<<endl;
+    	
     	for(int i = 0; i < a; i++)
     	{
-    		for(int j = 0; j < b; j++)
+    	  for(int j = 0; j < b; j++)
