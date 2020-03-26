@@ -50,3 +50,7 @@ int main()
 void jumlah (int *jum)
 {
 	for(int j = 0; j < d; j++)
+	
+    	for(int i = 0; i < a; i++)
+    	{
+    		for(int j = 0; j < b; j++)
