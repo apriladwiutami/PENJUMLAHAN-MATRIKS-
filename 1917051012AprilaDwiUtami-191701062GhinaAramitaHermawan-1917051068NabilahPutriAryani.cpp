@@ -21,3 +21,8 @@ int main()
 	cin >> c;
 	cout << "Masukkan jumlah kolom matriks kedua: ";
 	cin >> d;	
+
+	if (a != c || b != d) 
+		cout <<"Matriks tidak dapat dijumlahkan "<<endl;
+
+	else 
