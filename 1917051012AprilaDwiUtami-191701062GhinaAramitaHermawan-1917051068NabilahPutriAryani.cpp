@@ -18,3 +18,6 @@ int main()
 	cout << "Masukkan jumlah kolom matriks pertama: ";
 	cin >> b;
 	cout << "Masukkan jumlah baris matriks kedua: ";
+	cin >> c;
+	cout << "Masukkan jumlah kolom matriks kedua: ";
+	cin >> d;	
