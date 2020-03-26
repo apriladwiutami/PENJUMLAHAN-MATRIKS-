@@ -68,3 +68,7 @@ void input (int *in)
        		cin >> *(*(pm2+i)+j);
       		}
     	}
+}
+
+void jumlah (int *jum)
+{
