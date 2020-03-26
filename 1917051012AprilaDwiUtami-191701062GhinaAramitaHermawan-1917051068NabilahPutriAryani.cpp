@@ -43,3 +43,6 @@ int main()
 	{
       		hasil(&i);
       		cout << endl;
+   	}
+	}
+}
