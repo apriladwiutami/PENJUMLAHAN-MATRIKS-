@@ -1,4 +1,4 @@
-#include <iostream>
+no#include <iostream>
 using namespace std;
 	int a,b,c,d,angka=0;
         int mp[100][100];
@@ -47,3 +47,6 @@ int main()
 	}
 }
 
+void jumlah (int *jum)
+{
+	for(int j = 0; j < d; j++)
