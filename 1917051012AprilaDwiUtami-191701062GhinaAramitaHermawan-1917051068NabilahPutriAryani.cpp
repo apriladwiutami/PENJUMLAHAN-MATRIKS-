@@ -62,4 +62,6 @@ void input (int *in)
     	cout << "Masukkan elemen matriks kedua: "<<endl;
     	
     	for(int i = 0; i < c; i++)
-
+	{
+      		for(int j = 0; j < d; j++)
+      		{
