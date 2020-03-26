@@ -79,3 +79,7 @@ void jumlah (int *jum)
 }
 
 void hasil (int *hs)
+{
+	      		for(int j = 0; j < d; j++)
+      		{
+
