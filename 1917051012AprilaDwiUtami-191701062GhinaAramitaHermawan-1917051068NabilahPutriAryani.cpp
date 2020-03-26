@@ -46,3 +46,7 @@ int main()
    	}
 	}
 }
+void input (int *in)
+{
+	cout << "Masukkan elemen matriks pertama: "<<endl;
+    	
