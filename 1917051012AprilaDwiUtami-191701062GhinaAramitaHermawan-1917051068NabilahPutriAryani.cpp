@@ -1,4 +1,4 @@
-no#include <iostream>
+#include <iostream>
 using namespace std;
 	int a,b,c,d,angka=0;
         int mp[100][100];
