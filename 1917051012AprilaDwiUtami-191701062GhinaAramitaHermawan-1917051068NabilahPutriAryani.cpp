@@ -26,3 +26,7 @@ int main()
 		cout <<"Matriks tidak dapat dijumlahkan "<<endl;
 
 	else 
+	{
+		input(&angka);
+    	
+    	//operasi jumlah
