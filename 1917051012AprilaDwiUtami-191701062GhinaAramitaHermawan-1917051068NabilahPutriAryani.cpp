@@ -57,3 +57,9 @@ void input (int *in)
      		{
         		cin >> *(*(pm1+i)+j);
       		}
+    	}
+
+    	cout << "Masukkan elemen matriks kedua: "<<endl;
+    	
+    	for(int i = 0; i < c; i++)
+
