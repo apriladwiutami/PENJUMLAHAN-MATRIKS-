@@ -30,3 +30,7 @@ int main()
 		input(&angka);
     	
     	//operasi jumlah
+
+    	for(int i = 0; i < c; i++)
+    	{
+      		jumlah(&i);
