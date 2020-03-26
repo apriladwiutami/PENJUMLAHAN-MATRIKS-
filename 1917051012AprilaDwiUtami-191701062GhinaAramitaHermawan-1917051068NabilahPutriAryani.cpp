@@ -12,3 +12,6 @@ void input(int*);
 void hasil(int*);
 
 int main()
+{ 
+	cout << "Masukkan jumlah baris matriks pertama: ";
+	cin >> a;
