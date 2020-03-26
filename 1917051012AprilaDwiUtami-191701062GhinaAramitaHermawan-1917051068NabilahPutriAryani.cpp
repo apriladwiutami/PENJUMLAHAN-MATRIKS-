@@ -52,3 +52,6 @@ void input (int *in)
     	for(int i = 0; i < c; i++)
     	{
       		for(int j = 0; j < d; j++)
+     		{
+        		cin >> *(*(pm1+i)+j);
+      		}
