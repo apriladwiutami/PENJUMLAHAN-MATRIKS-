@@ -83,3 +83,7 @@ void hasil (int *hs)
 	      		for(int j = 0; j < d; j++)
       		{
 
+			cout << *(*(mp+*hs)+j) << "\t";
+      		}
+
+}
