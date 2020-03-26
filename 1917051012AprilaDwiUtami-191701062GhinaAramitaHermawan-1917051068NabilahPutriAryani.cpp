@@ -8,3 +8,7 @@ using namespace std;
 	int (*pm2)[100] = m2;
 
 void jumlah(int*);
+void input(int*);
+void hasil(int*);
+
+int main()
