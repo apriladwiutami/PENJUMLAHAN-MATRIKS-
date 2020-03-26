@@ -40,3 +40,6 @@ int main()
     	cout << "Hasil penjumlahan matriks: "<<endl;
     	
     	for(int i = 0; i < c; i++)
+	{
+      		hasil(&i);
+      		cout << endl;
